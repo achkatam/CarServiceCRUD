@@ -1,4 +1,4 @@
-using CarServiceCRUD.Models;
+using CarServiceCRUD.Data.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
