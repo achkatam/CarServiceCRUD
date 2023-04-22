@@ -1,5 +1,5 @@
 # CarServiceCRUD
-Basic CRUD operations. Testing Minimal API. App represents list of cars ready to be serviced/fixed in the workshop.
+Basic CRUD operations. Testing Minimal API. App represents list of cars about to be serviced/fixed in the workshop.
 
 ## Get all cars
 ![AllCars](images/getAll.png)
